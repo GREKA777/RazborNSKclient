@@ -1,0 +1,81 @@
+.searchName{
+    width: 610px;
+    height: 30px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-top: 10px;
+
+}.searchModel{
+    width: 410px;
+    height: 30px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-bottom: 20px;
+}.searchView{
+    width: 305px;
+    height: 30px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-left: 30px;
+}
+ .mar{
+     background-color: #161A1D;
+     padding-bottom: 20px;
+     padding-top: 40px;
+     padding-bottom: 50px;
+ }
+ .catalogName{
+     font-family: 'Russo One';
+     font-weight: 400;
+     font-size: 40px;
+     color: #86C232;
+     padding-top: 20px;
+     margin-bottom: 0;
+     margin-left: 20px;
+ }
+ .catalogButton{
+     font-family: 'Comfortaa';
+     width: 120px;
+     height: 40px;
+     color: #fff;
+     background-color: #61892F;
+     cursor: pointer;
+     border-radius: 20px;
+     border: none;
+     margin-bottom: 20px;
+     margin-left: 30px;
+ }
+.catalogButtonn{
+    font-family: 'Comfortaa';
+    width: 120px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 20px;
+    margin-left: 37px;
+}
+ .catalogContent{
+     margin-left: 200px;
+
+ }
+.drop{
+    display: flex;
+}

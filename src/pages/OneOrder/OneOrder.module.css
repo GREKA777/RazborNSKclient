@@ -1,0 +1,112 @@
+.orderNumber{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    color: #86C232;
+    padding-top: 25px;
+    margin-bottom: 0px;
+}
+.orderData{
+    margin-left: 200px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    font-size: 20px;
+    color: #61892F;
+    margin-top: -5px;
+}
+.orderName{
+    margin-top: -20px;
+}
+.orderAll{
+    background-color: #161A1D;
+    height: 100px;
+}
+.buttonFeedback{
+    font-family: 'Comfortaa';
+    width: 250px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+}
+.texttOrder{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.textOrder{
+    margin-bottom: 20px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    font-size: 20px;
+    color: #61892F;
+}
+.nameOrder{
+    margin-bottom: 10px;
+    font-family: "Russo One", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: -30px;
+}
+.photo{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 200px;
+}
+.blockOne{
+
+}
+.blockTwo{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.all{
+    display: flex;
+}
+.blockPayText{
+    margin-bottom: 10px;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #86C232;
+    margin-top: -10px;
+    margin-left: 50px;
+}
+.blockPay{
+    margin-bottom: 10px;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #86C232;
+    margin-top: -10px;
+}
+.blockName{
+
+}
+.chel{
+    margin-bottom: 10px;
+    font-family: "Russo One", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-top: -10px;
+}
+.info{
+    margin-bottom: 20px;
+    font-family: Comfortaa;
+    font-weight: 400;
+    font-size: 20px;
+    color: #61892F;
+    margin-bottom: 8px;
+}
+.double{
+    display: flex;
+    margin-top: 25px;
+
+}

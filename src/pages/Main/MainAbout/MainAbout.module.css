@@ -1,0 +1,48 @@
+.mainAboutHead{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    margin-left: 550px;
+    color: #86C232;
+}
+.mainAboutPicture{
+    margin-left: 160px;
+    padding-bottom: 50px;
+    width: 320px;
+    height: 320px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 560px 1fr;
+    margin-left: 60px;
+}
+.gridd{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 600px;
+    margin-top: 40px;
+}
+.centergrids{
+    color: white;
+    height: 64px;
+}
+.centergrids span{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 15px;
+}
+.textAboutAll{
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+.textAbout{
+    font-family: Comfortaa;
+    font-size: 18px;
+    color: #86C232;
+    margin-bottom: 30px;
+    margin-right: 150px;
+    background-color: #161A1D;
+    padding: 20px
+}

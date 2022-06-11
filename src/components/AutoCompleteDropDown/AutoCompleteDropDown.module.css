@@ -1,0 +1,66 @@
+.selector {
+  width: 305px;
+  height: 30px;
+  border: 1px solid #86C232;
+  border-radius: 17px;
+  background-color: #222629;
+  color: #86C232;
+  padding-left: 10px;
+  outline: none;
+  font-family: Comfortaa, sans-serif;
+  margin-left: 30px;
+  position: absolute;
+  z-index: 150;
+}
+
+.content {
+  padding-left: 17px;
+  font-family: Comfortaa, sans-serif;
+  letter-spacing: 0.015em;
+  font-weight: 400;
+  font-size: 18px;
+  height: 46px;
+  color: #717171;
+  text-transform: capitalize;
+}
+
+.contentAdd {
+  padding-left: 17px;
+  font-family: Comfortaa, sans-serif;
+  letter-spacing: 0.015em;
+  font-weight: 400;
+  font-size: 18px;
+  height: 46px;
+  color: #61892F;
+  margin-top: 10px;
+}
+
+.options {
+  margin-left: 30px;
+  border-left: 1px solid #86C232;
+  border-right: 1px solid #86C232;
+  border-bottom: 1px solid #86C232;
+  box-sizing: border-box;
+  width: 319px;
+  position: absolute;
+  z-index: 100;
+  background-color: #222629;
+  max-height: 213px;
+  overflow: auto;
+  margin-top: 20px;
+}
+
+.dropDown {
+  /*margin-bottom: 25px;*/
+  width: 344px;
+  position: relative;
+}
+
+.name {
+  padding-top: 12px;
+  cursor: pointer;
+}
+
+.content:hover {
+  color: #86C232;
+}

@@ -1,0 +1,29 @@
+.all{
+    margin-top: 150px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: 155px;
+    margin-right: 155px;
+}
+.notFound{
+    color: #6B6E70;
+    font-family: Comfortaa, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-left: 540px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.rec{
+    color: #86C232;
+    font-size: 30px;
+    padding-left: 550px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #161A1D;
+    margin-top: -70px;
+}

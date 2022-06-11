@@ -1,0 +1,13 @@
+.aboutName{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    color: #86C232;
+    padding-top: 25px;
+}
+.aboutAll{
+    background-color: #161A1D;
+    height: 100px;
+}

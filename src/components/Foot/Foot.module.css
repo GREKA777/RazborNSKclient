@@ -1,0 +1,58 @@
+.footer{
+    display: flex;
+}
+.footLink{
+    color: #61892F;
+    cursor: pointer;
+    font-family: Comfortaa, sans-serif;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.footName{
+    font-family: 'Russo One';
+    font-weight: 400;
+    color: white;
+}
+.footText{
+    color: #61892F;
+    margin-top: 22px;
+}
+.footBlok1{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.footBlok2{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.footBlok3{
+    margin-left: 200px;
+    margin-top: 10px;
+    display: block;
+}
+.footCity{
+    display: flex;
+}
+.footPhone{
+    display: flex;
+}
+.footCityPNG{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.footPhonePNG{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.line{
+    width: 100%;
+    border: 2px solid #161A1D;
+}
+.allfooter{
+    overflow: hidden;
+}

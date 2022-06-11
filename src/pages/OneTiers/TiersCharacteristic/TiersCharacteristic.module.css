@@ -1,0 +1,55 @@
+.characteristic{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 24px;
+    color: #6B6E70;
+    margin-left: 220px;
+    padding-top: 30px;
+}
+.textCharacteristic{
+    font-family: 'Comfortaa';
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.contentCharacteristic{
+    display: flex;
+}
+.buttonK{
+    width: 200px;
+    height: 50px;
+    font-family: 'Comfortaa';
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #61892F;
+    margin-left: 200px;
+    margin-top: 100px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+}
+.buttonF{
+    width: 200px;
+    height: 50px;
+    font-family: 'Comfortaa';
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #61892F;
+    margin-left: 50px;
+    margin-top: 100px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+.indent{
+    margin-top: 5.4px;
+}
+.indentO{
+    margin-top: 5.4px;
+    margin-right: 650px;
+}

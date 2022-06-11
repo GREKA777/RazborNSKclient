@@ -1,0 +1,27 @@
+.cardsbutton{
+    margin-left: 650px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.button{
+    font-family: 'Russo One';
+    font-size: 16px;
+    width: 30px;
+    height: 30px;
+    color: white;
+    border-color: #86C232;
+    border-radius: 50%;
+    background-color: #222629;
+    margin-right: 3px;
+}
+.buttonActive{
+    font-family: 'Russo One';
+    font-size: 16px;
+    width: 30px;
+    height: 30px;
+    color: #86C232;
+    border-color: #86C232;
+    border-radius: 50%;
+    background-color: #222629;
+    margin-right: 3px;
+}

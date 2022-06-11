@@ -1,0 +1,130 @@
+.profile{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    color: #86C232;
+    padding-top: 25px;
+}
+.profileAll{
+    background-color: #161A1D;
+    height: 100px;
+}
+.photoProfile{
+    width: 300px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.profileBody{
+    display: flex;
+    margin-left: -20px;
+    padding-bottom: 80px;
+}
+.profileBodyText{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 20px;
+    color: #86C232;
+    margin-left: 30px;
+}
+.profileBodyFact{
+    font-family: Comfortaa;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    width: 300px;
+    margin-left: 20px;
+    background: transparent;
+    border: none;
+    outline: 0;
+}
+.profileBodyFactt{
+    font-family: Comfortaa;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    width: 300px;
+    margin-left: 20px;
+    background: transparent;
+    border: 1px solid #86C232;
+    height: 30px;
+    margin-top: 15px;
+}
+.profileBodyAll{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.photoButton{
+    font-family: 'Comfortaa';
+    font-size: 14px;
+    padding: 12px 8px;
+    /*width: 200px;*/
+    /*height: 40px;*/
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+}
+.editButton{
+    font-family: 'Comfortaa';
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.saveButton{
+    font-family: 'Comfortaa';
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.buttonsProfilee{
+    font-family: 'Comfortaa';
+    width: 200px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    display: block;
+
+}
+.buttonsProfile{
+   margin-top: 10px;
+}
+.info{
+    display: flex;
+}
+.buttons{
+    display: flex;
+}
+.red{
+    outline: 0;
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+    position: absolute;
+}
+.buttonsProfileee{
+    text-decoration: none;
+}

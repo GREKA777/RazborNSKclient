@@ -1,0 +1,45 @@
+.landingHead{
+    font-family: 'Comfortaa';
+    font-weight: 400;
+    font-size: 62px;
+    color: #fff;
+    padding-top: 200px;
+}
+.landingName{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 68px;
+    color: #86C232;
+    margin-top: -16px;
+}
+.landingText{
+    font-family: 'Comfortaa';
+    font-weight: 300;
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+.landingTextе{
+    font-family: 'Comfortaa';
+    font-weight: 300;
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: -20px;
+}
+.landingButton{
+    font-family: 'Comfortaa';
+    width: 220px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 201px;
+}
+.landing{
+    background: url("../../../assets/main.png") no-repeat center top;
+    background-position-x: -500px;
+    background-position-y: -80px;
+    padding-left: 150px;
+}

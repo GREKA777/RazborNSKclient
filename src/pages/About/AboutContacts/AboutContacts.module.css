@@ -1,0 +1,38 @@
+.aboutContactsHead{
+    color: white;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 170px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.aboutContactsText{
+    color: #86C232;
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 10px;
+}
+.aboutContactsTextt{
+    color: #61892F;
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 150px;
+}
+.aboutContactsTextAll{
+    display: flex;
+}
+.allContacts{
+    background-color: #161A1D;
+}
+.map{
+    margin-left: 150px;
+    width: 400px;
+    height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

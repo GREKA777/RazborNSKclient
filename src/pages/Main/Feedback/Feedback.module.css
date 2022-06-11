@@ -1,0 +1,116 @@
+.feedback{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    margin-left: 600px;
+    color: #86C232;
+    padding-top: 30px;
+}
+.backg{
+    background-color: #161A1D;
+    padding-bottom: 100px;
+    overflow: hidden;
+  position: relative;
+}
+
+.rightBlock {
+  display: flex;
+  left: 1060px;
+  position: absolute;
+  transition: 0.5s;
+}
+
+.leftBlock {
+  display: flex;
+  right: 1030px;
+  position: absolute;
+  transition: 0.5s;
+}
+
+.mainBlock {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left{
+    border-radius: 17px;
+    background-color: #222629;
+    width: 440px;
+    height: 200px;
+    margin-top: 50px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.center{
+    border-radius: 17px;
+    background-color: white;
+    width: 540px;
+    height: 300px;
+    margin-left: 40px;
+    margin-right: 40px;
+  transition: 0.5s;
+  /*position: absolute;*/
+}
+
+.centerLeft {
+  color: #fff;
+
+}
+
+.right{
+    border-radius: 17px;
+    background-color: #222629;
+    width: 440px;
+    height: 200px;
+    /*margin-left: 370px;*/
+    margin-top: 50px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+.nameFeedback{
+    margin-left: 170px;
+    padding-top: 10px;
+}
+.nameFeedbackB{
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.textFeedback{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.textFeedbackS{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.textFeedbackV{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.maindivfeedback{
+    display: flex;
+    margin-top: 30px;
+}
+.buttonLeft{
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    background-color: #474B4F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-left: 40px;
+    margin-top: 130px;
+}
+.buttonRight{
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    background-color: #474B4F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-right: 40px;
+    margin-top: 130px;
+}

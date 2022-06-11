@@ -1,0 +1,14 @@
+.photo{
+    margin-left: 750px;
+    margin-top: -480px;
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+.photoAll{
+
+}
+.grid{
+    display: grid;
+}

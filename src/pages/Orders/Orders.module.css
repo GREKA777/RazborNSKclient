@@ -1,0 +1,32 @@
+.order{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    color: #86C232;
+    padding-top: 25px;
+}
+.orderAll{
+    background-color: #161A1D;
+    height: 100px;
+}
+.cards{
+    display: flex;
+    margin-bottom: 170px;
+    margin-left: 230px;
+    color: #86C232;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.notFound{
+    color: #6B6E70;
+    font-family: Comfortaa, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-left: 540px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

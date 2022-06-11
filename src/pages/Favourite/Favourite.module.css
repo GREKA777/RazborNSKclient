@@ -1,0 +1,52 @@
+.favourite{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 40px;
+    color: #86C232;
+    padding-top: 25px;
+}
+.favouriteAll{
+    background-color: #161A1D;
+    height: 100px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-bottom: 15px;
+}
+.buttonDelete{
+    font-family: 'Comfortaa';
+    width: 222px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-left: 170px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.buttonPay{
+    font-family: 'Comfortaa';
+    width: 222px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 170px;
+    margin-bottom: 40px;
+}
+
+.back{
+    padding-top: 30px;
+    background-color: #161A1D;
+
+}

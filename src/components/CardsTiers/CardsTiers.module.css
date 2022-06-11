@@ -1,0 +1,46 @@
+.cardTiers{
+    width: 220px;
+    height: 300px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.tiers{
+    width: 220px;
+    height: 150px;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+.nameTiers{
+    color: white;
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.textTiers{
+    color: #6B6E70;
+    font-family: Comfortaa, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.prise{
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.delete{
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #161A1D;
+    color: #86C232;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    cursor: pointer;
+}

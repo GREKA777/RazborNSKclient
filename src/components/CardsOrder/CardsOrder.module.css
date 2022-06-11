@@ -1,0 +1,34 @@
+.cardOrders{
+    width: 220px;
+    height: 260px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.order{
+    width: 220px;
+    height: 150px;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    margin-top: 12px;
+}
+.nameOrder{
+    color: white;
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.textOrder{
+    color: #6B6E70;
+    font-family: Comfortaa, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.cardOrderss{
+    text-decoration: none;
+}

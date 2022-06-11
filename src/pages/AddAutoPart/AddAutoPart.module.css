@@ -1,0 +1,53 @@
+.add{
+    margin-top: 80px;
+    background-color: #161A1D;
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-bottom: 70px;
+}
+.addAutoPart{
+    color: #86C232;
+    padding-bottom: 20px;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.all{
+
+}
+.img{
+    width: 300px;
+    height: 27px;
+    color: #86C232;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    padding-top: 2px;
+}
+.palace{
+    width: 230px;
+    height: 30px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+.button{
+    font-family: 'Comfortaa';
+    width: 130px;
+    height: 35px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 20px;
+    margin-left: 370px;
+}
+.type{
+    margin-left: 300px;
+}

@@ -1,0 +1,83 @@
+.Text{
+    width: 820px;
+    height: 100px;
+    border: 1px solid #86C232;
+    border-radius: 20px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-top: 10px;
+    padding-top: 10px;
+}.name{
+     width: 250px;
+     height: 30px;
+     border: 1px solid #86C232;
+     border-radius: 17px;
+     background-color: #222629;
+     color: #86C232;
+     padding-left: 10px;
+     outline: none;
+     font-family: Comfortaa, sans-serif;
+ }.email{
+      width: 250px;
+      height: 30px;
+      border: 1px solid #86C232;
+      border-radius: 17px;
+      background-color: #222629;
+      color: #86C232;
+      padding-left: 10px;
+      outline: none;
+      font-family: Comfortaa, sans-serif;
+      margin-left: 20px;
+  }
+.all{
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+.connectName{
+    font-family: 'Russo One';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    margin-top: -40px;
+}
+.connectButton{
+    font-family: 'Comfortaa';
+    width: 120px;
+    height: 40px;
+    color: #fff;
+    background-color: #61892F;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.connectContent{
+    margin-left: 170px;
+}
+.tema{
+    width: 250px;
+    height: 30px;
+    border: 1px solid #86C232;
+    border-radius: 17px;
+    background-color: #222629;
+    color: #86C232;
+    padding-left: 10px;
+    outline: none;
+    font-family: Comfortaa, sans-serif;
+    margin-left: 20px;
+}
+.connectText{
+    font-family: 'Comfortaa';
+    font-weight: 400;
+    font-size: 20px;
+    color: #86C232;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
