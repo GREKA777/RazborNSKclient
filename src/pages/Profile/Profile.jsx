@@ -38,7 +38,7 @@ const Profile = () => {
                 <h2 className={styles.profile}>Профиль № {users.id}</h2>
             </div>
             <div className={styles.profileBody}>
-                <img src={user.img?'http://localhost:5000/' + user.img:profile} alt="Фото профиля" className={styles.photoProfile}/>
+                <img src={user.img?'http://62.113.111.238:5000/' + user.img:profile} alt="Фото профиля" className={styles.photoProfile}/>
                 <div className={styles.profileBodyAll}>
                     <div className={styles.profileBodyText}>
                         <div className={styles.info}>

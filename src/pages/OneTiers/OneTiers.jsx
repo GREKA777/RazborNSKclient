@@ -22,7 +22,7 @@ const OneTiers = () => {
             <div className={styles.grid}>
             <TiersCharacteristic tiers={tiers}/>
             <div className={styles.photoAll}>
-                <img src={tiers.img?'http://localhost:5000/' + tiers.img:profile} alt="Фото автозапчасти" className={styles.photo}/>
+                <img src={tiers.img?'http://62.113.111.238:5000/' + tiers.img:profile} alt="Фото автозапчасти" className={styles.photo}/>
             </div>
             </div>
             <Foot/>

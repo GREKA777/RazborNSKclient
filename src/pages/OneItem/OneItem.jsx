@@ -20,7 +20,7 @@ const OneItem = () => {
             <ItemPrice autoPart={autoPart}/>
             <ItemCharacteristic autoPart={autoPart}/>
             <div className={styles.photoAll}>
-                <img src={autoPart.img?'http://localhost:5000/' + autoPart.img:profile} alt="Фото автозапчасти" className={styles.photo}/>
+                <img src={autoPart.img?'http://62.113.111.238:5000/' + autoPart.img:profile} alt="Фото автозапчасти" className={styles.photo}/>
                 <div className={styles.photoSmallAll}></div>
             </div>
             <Foot/>

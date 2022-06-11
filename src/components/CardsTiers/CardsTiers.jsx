@@ -33,7 +33,7 @@ const CardsTiers = ({autoTiers}) => {
                     navigate(ONE_TIER_ROUTE + "/" + autoTiers.id)
                 }else navigate(ONE_TIER_ROUTE + "/" + autoTiers.id)
             }}>
-            <img src={autoTiers.img?'http://localhost:5000/' + autoTiers.img:profile} alt="АВТОШИНЫ" className={styles.tiers}/>
+            <img src={autoTiers.img?'http://62.113.111.238:5000/' + autoTiers.img:profile} alt="АВТОШИНЫ" className={styles.tiers}/>
             <div className={styles.nameTiers}>{autoTiers.name || "Название"}</div>
             <div className={styles.textTiers}>Ширина: {autoTiers.width || "Ширина"}</div>
             <div className={styles.textTiers}>Профиль: {autoTiers.profile || "Профиль"}</div>

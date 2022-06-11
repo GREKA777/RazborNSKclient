@@ -45,7 +45,7 @@ const Head = () => {
             </ul>
             <NavLink className={styles.headButtonn} to={MAIN_ROUTE}><img src={logo} alt="RazborNSKavto"/></NavLink>
             {isAuth ? <div className={styles.profile}>
-                <NavLink className={styles.profileButton} to={PROFILE_ROUTE}><img src={user.img?'http://localhost:5000/' + user.img:profile} alt="Профиль" className={styles.profileLogo}/></NavLink>
+                <NavLink className={styles.profileButton} to={PROFILE_ROUTE}><img src={user.img?'http://62.113.111.238:5000/' + user.img:profile} alt="Профиль" className={styles.profileLogo}/></NavLink>
                 <div className={styles.prof}>
                     <div><button className={styles.buttonGoo} onClick={() => navigate(PROFILE_ROUTE)}>Профиль</button></div>
                     <div><button className={styles.buttonOut} onClick={logOut}>Выход</button></div>

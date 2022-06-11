@@ -34,7 +34,7 @@ const CardsAutopart = ({autoPart}) => {
                             navigate(ONE_ITEM_ROUTE + "/" + autoPart.id)
                         }else navigate(ONE_ITEM_ROUTE + "/" + autoPart.id)
                     } }>
-                        <img src={autoPart.img?'http://localhost:5000/' + autoPart.img:profile} alt="АВТОЗАПЧАСТЬ" className={styles.autoparts}/>
+                        <img src={autoPart.img?'http://62.113.111.238:5000/' + autoPart.img:profile} alt="АВТОЗАПЧАСТЬ" className={styles.autoparts}/>
                         <div className={styles.nameAutoparts}>{autoPart.name || "Название"}</div>
                         <div className={styles.textAutoparts}>{autoPart.car || "Автомобиль"}</div>
                         <div className={styles.textAutoparts}>{autoPart.engine || "Двигатель"}</div>
